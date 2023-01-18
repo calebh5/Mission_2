@@ -38,7 +38,7 @@ namespace Mission_2
                 }
                 Console.Write("\n");
             }
-
+            
             Console.Write("Thank you for playing!");
         }
     }
